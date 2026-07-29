@@ -1,0 +1,7 @@
+**/target/
+.DS_Store
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
