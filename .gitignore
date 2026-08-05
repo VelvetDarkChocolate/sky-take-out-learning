@@ -5,3 +5,6 @@
 *.class
 *Test.java
 **/test/
+
+# 本地开发密钥
+sky-server/src/main/resources/application-dev.yml

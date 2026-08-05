@@ -36,7 +36,7 @@ public class AutoFillAspect {
     }
 
     /**
-     * 前置通知，在通知中为公共字段进行负值
+     * 前置通知，在通知中为公共字段进行赋值
      */
     @Before("autoFillpointcut()")
     public void autoFill(JoinPoint joinPoint) {
